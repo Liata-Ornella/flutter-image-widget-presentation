@@ -1,3 +1,4 @@
+<img width="1428" height="1073" alt="Screenshot widget" src="https://github.com/user-attachments/assets/c8a193cf-189f-45d4-bec2-4e1827dfbd1e" />
 # Flutter Image Widget: Product Preview
 
 A tiny shopping-product preview app demonstrating Flutter's `Image` widget with a local product image.
@@ -26,5 +27,4 @@ The sliders and chips update the preview immediately. Press the reset button to 
 ## Screenshot
 
 screenshot of the running app:
-
-`![Image widget demo](screenshots/Screenshot widget.png)`  <img width="480" height="600" alt="my_product" src="https://github.com/user-attachments/assets/8be557dc-cfc3-4cc9-870e-da802896e3ed" />
+<img width="1428" height="1073" alt="Screenshot widget" src="https://github.com/user-attachments/assets/c8a193cf-189f-45d4-bec2-4e1827dfbd1e" />
