@@ -25,6 +25,6 @@ The sliders and chips update the preview immediately. Press the reset button to 
 
 ## Screenshot
 
-Add a screenshot of the running app here before submitting:
+screenshot of the running app:
 
 `![Image widget demo](screenshots/Screenshot widget.png)`
