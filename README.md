@@ -27,4 +27,4 @@ The sliders and chips update the preview immediately. Press the reset button to 
 
 screenshot of the running app:
 
-`![Image widget demo](screenshots/Screenshot widget.png)`
+`![Image widget demo](screenshots/Screenshot widget.png)`  <img width="480" height="600" alt="my_product" src="https://github.com/user-attachments/assets/8be557dc-cfc3-4cc9-870e-da802896e3ed" />
